@@ -1,0 +1,9 @@
+    "This product is great! I love it.",
+    "It was okay, not amazing, but decent.",
+    "Worst purchase ever. Totally disappointed.",
+    "Really good, but not perfect. I would recommend it.",
+    "Absolutely terrible, I will never buy it again.",
+    "Wtf is it",
+    "Wow, beast",
+    "Normal, clean",
+    "Damn it, best"
